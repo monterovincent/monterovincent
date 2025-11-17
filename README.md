@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building: **Fuel Billing System (Python)** & a **multi-page portfolio website**  
+- 🔭 Currently building: **Sport Management Website**  a **A Product Inventory Dashboard** & **An AI-Powered Visual Discovery platform** 
 - 🌱 Learning: **Object-Oriented Programming (Python/Java)**, **Web Development**, and **Networking Fundamentals**  
 - 🎯 Career goal: To become a **full-stack developer** with a focus on **AI and cybersecurity**  
 - ⚡ Fun fact: I enjoy combining tech projects with real-world problem solving  
@@ -17,8 +17,8 @@
 ## 🛠️ Skills & Tools
 - **Languages**: Python, Java, HTML, CSS, JavaScript  
 - **Web**: GitHub Pages, Responsive Design  
-- **Databases**: MySQL (beginner)  
-- **Other**: Networking basics (TCP/IP, DHCP, ARP), Flowcharts (draw.io), Git/GitHub  
+- **Databases**: MySQL  
+- **Other**: Networking basics (TCP/IP, DHCP, ARP),  Git/GitHub  
 
 ---
 
