@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building: **Sport Management Website**  a **A Product Inventory Dashboard** & **An AI-Powered Visual Discovery platform** 
+- 🔭 Currently building: **Sport Management Website**  , **A Product Inventory Dashboard** & **An AI-Powered Visual Discovery platform** 
 - 🌱 Learning: **Object-Oriented Programming (Python/Java)**, **Web Development**, and **Networking Fundamentals**  
 - 🎯 Career goal: To become a **full-stack developer** with a focus on **AI and cybersecurity**  
 - ⚡ Fun fact: I enjoy combining tech projects with real-world problem solving  
@@ -26,7 +26,9 @@
 🌟 [Fuel Billing System (Python)](https://github.com/monterovincent/fuel-billing-system)  
 *A billing program with discounts, GST logic, and invoice generation.*  
 
-🏦 ACME Mortgage Calculator (Python Project) (Python)](https://github.com/monterovincent/fuel-billing-system)  
+🏦 ACME Mortgage Calculator (Python Project) (Python)]( https://monterovincent.github.io/ACME-Mortgage-Calculator/)
+🔗 **Live Project Website** ( https://monterovincent.github.io/ACME-Mortgage-Calculator/ )
+🔗 **Source Code Repository** ( 
 *A full mortgage calculation tool that:*
 *- Computes monthly mortgage payments  
 - Applies minimum down payment rules  
