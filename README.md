@@ -26,8 +26,14 @@
 🌟 [Fuel Billing System (Python)](https://github.com/monterovincent/fuel-billing-system)  
 *A billing program with discounts, GST logic, and invoice generation.*  
 
-🌟 [Portfolio Website](https://github.com/monterovincent)  
-*A personal multi-page HTML/CSS site showcasing projects and skills.*  
+🏦 ACME Mortgage Calculator (Python Project) (Python)](https://github.com/monterovincent/fuel-billing-system)  
+*A full mortgage calculation tool that:*
+*- Computes monthly mortgage payments  
+- Applies minimum down payment rules  
+- Calculates mortgage insurance  
+- Generates a complete amortization schedule  
+- Uses effective monthly interest rate (EMR) formulas  
+- Built in Python (OOP principles)*
 
 ---
 
