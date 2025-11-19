@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ebube Vincent  
 
 🎓  Software Development @ SAIT  
-💻  Software Developer | Python • HTML/CSS/JS • Networking • Cybersecurity  
+💻  Software Developer | Python • HTML/CSS/JS • React.js • Java 
 🌍 Based in Canada   
 
 ---
@@ -28,7 +28,7 @@
 
 🏦 ACME Mortgage Calculator (Python Project) (Python)]( https://monterovincent.github.io/ACME-Mortgage-Calculator/)
 🔗 **Live Project Website** ( https://monterovincent.github.io/ACME-Mortgage-Calculator/ )
-🔗 **Source Code Repository** ( 
+🔗 **Source Code Repository** ( https://github.com/monterovincent/ACME-Mortgage-Calculator)
 *A full mortgage calculation tool that:*
 *- Computes monthly mortgage payments  
 - Applies minimum down payment rules  
