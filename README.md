@@ -24,6 +24,12 @@
 
 ## 📂 Featured Projects
 
+🌟 [Robot Rental Projects  (JavaScript )] 
+ Live Site:** https://monterovincent.github.io/Raj-Robot-Rentals/ **  
+*📁 GitHub Repository:* https://github.com/monterovincent/Evo-sports-Management
+*Raj's Robot Rentals is a simple interactive webpage that demonstrates the fundamentals of JavaScript DOM manipulation and event handling. The project allows users to switch between two robot models and set the number of rental days, with the total cost dynamically calculated and displayed on the page. This project is part of a JavaScript lab focus*
+
+
 🌟 [Sports Management Website (HTML & CSS )](https://monterovincent.github.io/Evo-sports-Management/)  
  Live Site:** https://monterovincent.github.io/Evo-sports-Management/  
 *📁 GitHub Repository:* https://github.com/monterovincent/Evo-sports-Management
