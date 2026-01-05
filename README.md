@@ -24,6 +24,11 @@
 
 ## 📂 Featured Projects
 
+🌟 [EVOFLEET IQ Fleet Fuel Tracking & Analytics Dashboard  (Flask, Python, SQLAlchemy, SQLite, Chart.js )] 
+ Github Repo:** https://github.com/monterovincent/evofleet-iq- **  
+*EVOFLEET IQ is a full-stack web application designed to help small and mid-sized fleet operators track vehicles, log fuel usage, and generate meaningful analytics from clean, validated data.*
+
+
 🌟 [Robot Rental Projects  (JavaScript )] 
  Live Site:** https://monterovincent.github.io/Raj-Robot-Rentals/ **  
 *Raj's Robot Rentals is a simple interactive webpage that demonstrates the fundamentals of JavaScript DOM manipulation and event handling. The project allows users to switch between two robot models and set the number of rental days, with the total cost dynamically calculated and displayed on the page. This project is part of a JavaScript lab focus*
