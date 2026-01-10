@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ebube Vincent  
 
 🎓  Software Development @ SAIT  
-💻  Software Developer | Python • HTML/CSS/JS • React.js • Java 
+💻  Software Developer | Python • HTML/CSS/JS • React.js • Java  • SQL  • Flask 
 🌍 Based in Canada   
 
 ---
