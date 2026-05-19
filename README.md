@@ -1,32 +1,30 @@
 # 👋 Hi, I'm Ebube Vincent  
 
-🎓  Software Development @ SAIT  
+🎓  Software Development student @ SAIT  
 💻  Software Developer | Python • HTML/CSS/JS • React.js • Java  • SQL  • Flask 
 🌍 Based in Canada   
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building: **Sport Management Website**  , **A Product Inventory Dashboard** & **An AI-Powered Visual Discovery platform** 
+- 🔭 Currently building: **Scout-Bridge(Digital scouting platform connecting Canadian grassroots soccer players (ages 13–23) with scouts and club programs.**  , **A Product Inventory Dashboard** & **An AI-Powered Visual Discovery platform** 
 - 🌱 Learning: **Object-Oriented Programming (Python/Java)**, **Web Development**, and **Networking Fundamentals**  
-- 🎯 Career goal: To become a **full-stack developer** with a focus on **AI and cybersecurity**  
-- ⚡ Fun fact: I enjoy combining tech projects with real-world problem solving  
+- 🎯 Career goal: To become a **full-stack developer / Devops-Engineer** with a focus on **AI and cybersecurity**  
+- ⚡ Fun fact: I enjoy combining tech projects with real-world problem solving . 
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages**: Python, Java, HTML, CSS, JavaScript  
-- **Web**: GitHub Pages, Responsive Design  
-- **Databases**: MySQL  
+- **Languages**: Python, Java, React, Node.js, JavaScript   
+- **Databases**: MySQL , Supabase .  
 - **Other**: Networking basics (TCP/IP, DHCP, ARP),  Git/GitHub  
 
 ---
 
 ## 📂 Featured Projects
 
-🌟 [EVOFLEET IQ Fleet Fuel Tracking & Analytics Dashboard  (Flask, Python, SQLAlchemy, SQLite, Chart.js )] 
- Github Repo:** https://github.com/monterovincent/evofleet-iq- **  
-*EVOFLEET IQ is a full-stack web application designed to help small and mid-sized fleet operators track vehicles, log fuel usage, and generate meaningful analytics from clean, validated data.*
+🌟 A production-quality fleet management dashboard demo built to showcase  product experience looks like with live data connected together .  
+ Live Site:** https://widrive-demo.vercel.app/ **  
 
 
 🌟 [Robot Rental Projects  (JavaScript )] 
