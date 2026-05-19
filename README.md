@@ -23,9 +23,9 @@
 
 ## 📂 Featured Projects
 
-🌟 A production-quality fleet management dashboard demo built to showcase  product experience looks like with live data connected together .  
+🌟 A production-quality fleet management dashboard demo built to showcase what a good   product experience looks like with live data connected together .  
  Live Site:** https://widrive-demo.vercel.app/ **  
-
+*WI-Drive is a Interactive fleet-management dashboard built as outreach to a Calgary mobility startup.*
 
 🌟 [Robot Rental Projects  (JavaScript )] 
  Live Site:** https://monterovincent.github.io/Raj-Robot-Rentals/ **  
